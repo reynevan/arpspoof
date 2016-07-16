@@ -9,7 +9,7 @@ import re
 DEBUG = True
 
 GATEWAY_IP = '192.168.0.1'
-GATEWAY_MAC = '6c:19:8f:ba:3c:c4'
+GATEWAY_MAC = '00:00:00:00:00:00'
 
 def log(msg):
 	if DEBUG:
